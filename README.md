@@ -10,7 +10,7 @@ Examples of images for testing:
 
 ## Accessing the data
 
-The whole dataset is stored in the file `NFD.npy`.
+The whole dataset is stored in the file `NFD.npy`, which is available for download in **Releases**.
 
 To extract the data from the file, code in the following way and we get the dataset in the variable `data`.
 ```Python
